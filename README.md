@@ -2,8 +2,8 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sansui233&count_private=true&show_icons=true">
 
-- ⚒: Python/Golang/Linux
-- 🔨: C++/Java/HTML/CSS/JS
+- ⚒ Python/Golang/Linux
+- 🔨 C++/Java/HTML/CSS/JS
 - 🌱 I’m currently preparing for papers
 - 📫 How to reach me: sansuilnm@gmail.com
 
