@@ -5,7 +5,6 @@
 - ⚒ Python/Golang/Linux
 - 🔨 HTML/CSS/JS/React
 - 📫 How to reach me: sansuilnm@gmail.com
-- 🌼 Sansui's [Blog](https://imsansui.cn/archives/)
 
 <!--
 **Sansui233/sansui233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
